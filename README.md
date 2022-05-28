@@ -1,8 +1,9 @@
-# OOP-JS (Object-Oriented Programming with Javascript)
+# **OOP-JS (Object-Oriented Programming with Javascript)**
 
-### Table of Contents
+### **Table of Contents**
 
 - [Meta Information](#Meta-Information)
+- [Project Structure](#Project-Structure)
 - [Getting Start](#Getting-Start)
 - [Postmortem](#Postmortem)
 
@@ -14,7 +15,26 @@
 
 </br>
 
-### Getting Start
+## **Project Structure**
+
+```bash
+├── src/
+│   └── Basic/
+│   └── Patterns/
+└──
+```
+
+- **Basic**
+  - Classes in Javascript
+
+</br>
+
+- **Patterns**
+  - Design patterns in Javascript
+
+</br>
+
+### **Getting Start**
 
 ```bash
 $ node "파일명"
@@ -23,4 +43,4 @@ $ node "파일명"
 
 </br>
 
-### Postmortem
+### **Postmortem**
