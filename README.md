@@ -19,18 +19,18 @@
 
 ```bash
 ├── src/
-│   └── Basic/
+│   └── Concepts/
 │   └── Patterns/
 └──
 ```
 
 - **Basic**
-  - Classes in Javascript
+  - OOP Concepts in Javascript
 
 </br>
 
 - **Patterns**
-  - OOP patterns in Javascript
+  - OOP Patterns in Javascript
 
 </br>
 
