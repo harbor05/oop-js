@@ -11,7 +11,7 @@
 
 ### Meta Information
 
-- OOP 예제를 자바스크립트 구현
+- OOP 예제를 자바스크립트로 구현
 
 </br>
 
@@ -30,7 +30,7 @@
 </br>
 
 - **Patterns**
-  - Design patterns in Javascript
+  - OOP patterns in Javascript
 
 </br>
 
