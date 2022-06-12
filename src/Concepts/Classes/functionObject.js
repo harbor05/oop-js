@@ -1,1 +1,1 @@
-// Function Object (Classic)
+// Class Object (Before ES6)
